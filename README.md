@@ -1,1 +1,1 @@
-# CompetitiveProgramming
+## My competitive programming techniques
